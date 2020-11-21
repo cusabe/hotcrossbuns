@@ -1,0 +1,48 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+# add as many "name+comment" entries as necessary
+# (or remove it altogether if you haven't collaborated with anyone)
+collaboration:
+  - name: Alfred Le
+    comment: >- 
+    useful feedback that my V0.1 critter looked too much like Grimace (fixed)
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: The BenSee glasses logo from Assignment 1
+    url: https://comp1720.cecs.anu.edu.au/u4022214/comp1720-2020-assignment-1/
+    licence: Copyright Benedict Cusack 2020. All Rights Reserved.  (Also ANU owns copyright on assignment submissions I think)
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets:
+  - comment: ColorHunt palette 183389 soft browns
+    url: https://colorhunt.co/palette/183389
+    licence: Public property https://colorhunt.co/about
+
+  - comment: Inspiration for drawing cartoon hot cross buns
+    url: https://www.shutterstock.com/image-vector/hot-cross-buns-cute-vector-788993536
+    licence: (assuming) All Rights Reserved Jujuk Suwandono
+    
+  - comment: Hey Duggee app games - one of these gave me the idea for build-your-own-food with simple graphics
+    url: https://www.heyduggee.com/grown-ups/apps/
+    licence: Copyright Studio AKA Ltd 2014. All Rights Reserved
+  
+  - comment: Dumb Ways to Die - inspiration for viral social media ads
+    url: https://www.dumbwaystodie.com/
+    licence: Copyright Metro Trains Melbourne, Dumb Ways to Die. All Rights Reserved
+
+  - comment: Google font Open Sans
+    url: https://fonts.google.com/specimen/Open+Sans?sidebar.open=true&selection.family=Open+Sans
+    licence: Free and Open Source https://fonts.google.com/about?sidebar.open=true&selection.family=Open+Sans
+    
+    
+# sign *your* name and uid here
+name: Benedict Cusack
+uid: u4022214
